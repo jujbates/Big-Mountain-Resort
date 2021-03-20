@@ -24,7 +24,7 @@ ipykernel @ file:///opt/concourse/worker/volumes/live/85dd2405-d290-4882-62b3-be
 ipython @ file:///opt/concourse/worker/volumes/live/8c453bb6-500b-4747-778c-a236ae4a574d/volume/ipython_1593447395779/work
 ipython-genutils==0.2.0
 jedi @ file:///opt/concourse/worker/volumes/live/e6f84406-1fad-482f-62d9-34c207744fff/volume/jedi_1592841896228/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 jinja2-time==0.2.0
 joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
