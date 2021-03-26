@@ -56,7 +56,7 @@ PySocks==1.7.1
 python-dateutil==2.8.1
 python-slugify @ file:///home/conda/feedstock_root/build_artifacts/python-slugify_1593573453419/work
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.1
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
 Rtree==0.9.4
