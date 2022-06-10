@@ -11,7 +11,7 @@ chardet==3.0.4
 click==7.1.2
 click-plugins==1.1.1
 cligj==0.5.0
-cookiecutter==1.7.2
+cookiecutter==2.1.1
 cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1595348779697/work
 cycler==0.10.0
 decorator==4.4.2
